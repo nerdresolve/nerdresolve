@@ -7,7 +7,7 @@
 # Greetings, Nerd Matthew here.
 Full-stack dev, Rio de Janeiro.
 
-I build products end to end, from architecture to shipping. Founded NerdResolve to build things I actually want to exist. React and Node.js are home base, Python when the problem calls for something else. I keep going back to fundamentals (CS50) and I run everything in Docker so my setup isn't the variable.
+I build products end to end, from architecture to shipping. Founded NerdResolve to build things I actually want to exist. React and Node.js are home base, Python when the problem calls for something else, Docker so my setup isn't the variable.
 
 <br/>
 
