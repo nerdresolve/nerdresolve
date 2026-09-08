@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/nQbsXPk.png" width="100%"/>
-
-  <sub><i>"Hard workers who do things they like are unstoppable."</i> (Blue Period, vol. 1)</sub>
+  <img src="https://i.imgur.com/NGi5jqF.png" width="100%"/>
 </div>
 
 <br/>
@@ -23,16 +21,16 @@ React and Node.js by default, Python when it fits. CS50 to shore up fundamentals
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=e0e0e0)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=e0e0e0)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=e0e0e0)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=e0e0e0)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=e0e0e0)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=e0e0e0)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=e0e0e0)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=e0e0e0)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=e0e0e0)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=e0e0e0)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=9838FE)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=9838FE)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=9838FE)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=9838FE)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=9838FE)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=9838FE)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=9838FE)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=9838FE)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=9838FE)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9838FE)
 
 </div>
 
@@ -42,7 +40,7 @@ React and Node.js by default, Python when it fits. CS50 to shore up fundamentals
 
 Favorite band: Alice in Chains. Favorite song: Radiohead's *All I Need*.
 
-Favorite anime: *Monster*, built around a children's book about a monster with no name, and no one left to call him once he finds one. Favorite manga: *Blue Period*. The quote up top is why. Weekends: training, then whatever UFC card is on.
+Favorite anime: *Monster*, built around a children's book about a monster with no name, and no one left to call him once he finds one. Favorite manga: *Blue Period*, about a guy who becomes exceptional through sheer, obsessive effort. Weekends: training, then whatever UFC card is on.
 
 <br/>
 
@@ -60,9 +58,9 @@ Favorite anime: *Monster*, built around a children's book about a monster with n
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=e0e0e0)](https://www.linkedin.com/in/mariathdev/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=e0e0e0)](https://www.instagram.com/mariathdev/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=e0e0e0)](https://x.com/mariathdevx)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=e0e0e0)](mailto:contato@mariath.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9838FE)](https://www.linkedin.com/in/mariathdev/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=9838FE)](https://www.instagram.com/mariathdev/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=9838FE)](https://x.com/mariathdevx)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=9838FE)](mailto:contato@mariath.dev)
 
 </div>
