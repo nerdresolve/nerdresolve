@@ -21,7 +21,7 @@ Source-available under [BSL 1.1](https://github.com/nerdresolve/NerdLMS/blob/mai
 
 <div align="center">
 
-[![★ Star it](https://img.shields.io/badge/★_Star_NerdLMS-7C3AED?style=for-the-badge&logoColor=e0e0e0)](https://github.com/login?return_to=%2Fnerdresolve%2FNerdLMS)
+[![NerdLMS no GitHub](https://img.shields.io/badge/★_NerdLMS_no_GitHub-7C3AED?style=for-the-badge&logoColor=e0e0e0)](https://github.com/nerdresolve/NerdLMS)
 [![Live demo](https://img.shields.io/badge/Live_demo-000000?style=for-the-badge&logo=googlechrome&logoColor=e0e0e0)](https://lms.nerdresolve.com)
 [![Stars](https://img.shields.io/github/stars/nerdresolve/NerdLMS?style=for-the-badge&label=stars&color=000000&labelColor=000000)](https://github.com/nerdresolve/NerdLMS)
 
