@@ -5,9 +5,9 @@
 <br/>
 
 # Greetings, Nerd Matthew here.
-Full-stack dev, Rio de Janeiro.
+Software Engineer based in Rio de Janeiro, Brazil.
 
-I build products end to end, from architecture to shipping. Founded NerdResolve to build things I actually want to exist. React and Node.js are home base, Python when the problem calls for something else, Docker so my setup isn't the variable.
+I build products end to end, from architecture to production. Founded NerdResolve to build things I actually want to exist. React and Node.js are home base, Python when the problem calls for something else, Docker so my setup isn't the variable.
 
 <br/>
 
